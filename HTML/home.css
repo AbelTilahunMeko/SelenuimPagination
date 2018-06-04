@@ -1,0 +1,45 @@
+img{
+    width: 50%;
+    height: 20%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+p{
+    width: 80%;
+    height: 10%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6A1B9A;}
+
+li {
+    float: left;
+    padding-left:4%;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #9C27B0;
+}
+#mainPage{
+    width: 80%;
+    margin-left: 14%
+
+}
+.navBar{
+    margin-left: 34%
+
+
+ }
